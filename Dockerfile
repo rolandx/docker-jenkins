@@ -1,5 +1,5 @@
-FROM ubuntu:13.10
-MAINTAINER Zaiste <oh [at] zaiste.net>
+FROM fltrp/base
+MAINTAINER ZhangChao "zhangchao@fltrp.com"
 
 RUN apt-get update
 RUN apt-get -y install wget git

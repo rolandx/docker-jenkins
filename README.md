@@ -21,7 +21,7 @@ following plugins:
 Usage
 -----
 
-    docker run -d -t zaiste/jenkins
+    docker run -d -t rolandx/jenkins
 
 Building
 --------

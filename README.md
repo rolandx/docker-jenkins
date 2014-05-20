@@ -28,10 +28,10 @@ Building
 
 Grab Dockerfile from this repository on Github
 
-    docker build github.com/zaiste/docker-jenkins
+    docker build github.com/rolandx/docker-jenkins
 
 Get a Docker image from Docker index
 
-    docker pull zaiste/jenkins
+    docker pull rolandx/jenkins
 
 
